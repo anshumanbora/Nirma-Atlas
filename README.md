@@ -2,7 +2,7 @@
 
 ## Backstory
 
-A python based project which me and my friends built during the early under-grad days. We wanted to make a navigable map for Nirma university. We chose to use Pygame, a Python library used to design games, as it was well documented and had a easy learning curve. Although we decided to use Python because we were learning it at that time but in the later stages we ended up regretting this decision. We came to realize that Python was not the tool we should have used for this project because it is not great at handling graphics related processes. We learnt the importance of using the correct tools for a task, the hard way.
+A python based project which was developed by me and my friends during our early under-grad days. We wanted to make a navigable map for Nirma university. We decided to use Pygame, a Python library used to design games, as it was pretty well documented and had an easy learning curve. Although we decided to use Python as we had just started coding in Python at that time, but during the later stages of this project we were regretful of this decision. We came to realize that Python was not the tool we should have used for this project because it is not great at handling graphics related processes. We learnt the importance of using the correct tools for a task, *the hard way*.
 
 ## Detailed Description
 
